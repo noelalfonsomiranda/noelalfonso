@@ -1,0 +1,10 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-Agent: *
+Disallow: 
+User-Agent: Googlebot
+Allow: /*.js*
+Allow: /*.css
+
+Sitemap: http://noelalfonso.com/sitemap.xml
